@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1455476837439.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "41642520",
+    "lastKnownWriteTime" : 31244048835477601,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "ki3axp0hxd",
+        "caption" : "data_day",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=data_day&cache_key=ki3axp0hxd",
+        "displayedObservations" : 61,
+        "environment" : "",
+        "object" : "data_day",
+        "totalObservations" : 61,
+        "variables" : 2
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
